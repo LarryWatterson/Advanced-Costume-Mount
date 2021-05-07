@@ -1,0 +1,11 @@
+"binekhokrdsm";
+"|cffffff00Binek görünümü başarıyla güncellendi.";
+
+"binekmaxseviye";
+"Bineğin zaten son seviyede.";
+
+"binekitemiyok";
+"Bineğini Güçlendirmek için yeterli Parşömene sahip değilsin.";
+
+"binek_gelisti";
+"Binek seviyesi başarıyla yükseltildi.";

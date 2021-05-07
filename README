@@ -1,0 +1,20 @@
+## Bu Sistem Larry Watterson tarafından düzenlenmiş / geliştirilmiştir ##
+Herhangi bir sorunda bana mutlaka ulaşın.
+Yaz ayı nedeniyle her zaman evde olamayabiliyorum, anlayışınız için teşekkürler
+char_item.cpp {
+***
+case 91012: -> bu vnum sertrifika içindir daha fazla sertrifika eklemek istiyorsanız altına case olarak ekleyin örnek;
+case 91012:
+case 91013:
+...
+
+const DWORD binekEvrimItem[] = bineğe level atlatırken isteyeceği item kodları
+auto gerekliOlan = (item2->GetSocket(2)+1) * 5; = kaç tane isteyeceği (mevcut olan binek leveli + 1 *5)
+}
+***
+
+sertrifikaların value0 değerindeki mobvnum kodu madalyona işleyecek bineğe karşılık gelir
+binek_ver.lua'yı açarsanız gerekli bilgiler içinde yazıyor ne için nereyi değiştirmeniz gerektiği
+Marty Sama source kullanıyorsanız, db ve dump_protoda'ki wear_costume_mount vs. ekli olabilir, dikkat edin
+Ekleyemediğiniz, hata aldığınız bir noktada mutlaka skype üzerinden yazın.
+https://forum.turkmmo.com/konu/3761373-lwt-v1-files/ - Yorumunuzu eksik etmeyin :)

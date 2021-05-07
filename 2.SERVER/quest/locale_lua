@@ -1,0 +1,10 @@
+locale.seyis = {}
+locale.seyis.binekal = "Güçlü Binek madalyonu almak istiyorum"
+locale.seyis.binektext1 = "Demek Güçlü Binek madalyonu almak istiyorsun"
+locale.seyis.binektext2 = "Sunacağım özelliklerden birini seçerek madalyonu teslim alabilirsin."
+locale.seyis.kimekarsi = "Bineğinde hangi özelliği istersin?"
+locale.seyis.yarilibinek = "Yarı İnsanlara Karşı Güç"
+locale.seyis.canavarlibinek = "Canavarlara Karşı Güç"
+locale.seyis.metintasi = "Metin Taşlarına Karşı Güç"
+locale.seyis.expbonus = "EXP Bonus"
+locale.seyis.binekho = "Bineğine iyi bak :)"

@@ -1,0 +1,8 @@
+mount_desc = "Bineğinizin görünümü değiştirilecek."
+mount_desc2 = "Onaylıyor musunuz ?"
+mount_tooltip = "|cFFFF0000Binek: |r|cFF00FF00%s|r"
+justmount = "Sadece Binek Madalyonunun görünümü değiştirilebilir."
+mount_gelisiyor = "Bineğinizin seviyesi yükselecek"
+mount_gerekli = "Gerekli Evrim ve Mutasyon Parşömeni %d adet (her ikisinden)"
+mountmaxlevel = "Bineğin max seviyeye ulaşmış, daha fazla geliştirilemez."
+birazyavasol = "Bineğini yordun, biraz dinlenmesine izin ver."
