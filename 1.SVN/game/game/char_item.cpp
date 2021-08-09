@@ -148,7 +148,6 @@
 									{
 										ChatPacket(CHAT_TYPE_INFO, LC_TEXT("binekitemiyok"));
 										return false;
-										break;
 									}
 								}
 
